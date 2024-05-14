@@ -23,4 +23,10 @@
   - pygame library
 
   # How to Play
-  - The game is 
+  - The game is played on a 4x4 board.
+  - Players take turns placing their mark ('X' or 'O') on the board.
+  - The first player to create an L shape using 4 marks (either 'X' or 'O') wins the game.
+  - An L shape can be formed horizontally, vertically, or diagonally.
+  - If no player can create an L shape, the game ends in a draw.
+
+  # Screenshots
